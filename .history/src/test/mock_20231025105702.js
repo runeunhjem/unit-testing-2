@@ -6,7 +6,6 @@ import getExampleData from "./example.js";
 //     expect(data.length).toBeLessThanOrEqual(3);
 //   });
 // });
-
 // ************ USING MOCK FUNCTION INSTEAD ************
 const TEST_VALUE = 3;
 

@@ -6,7 +6,6 @@ import getExampleData from "./example.js";
 //     expect(data.length).toBeLessThanOrEqual(3);
 //   });
 // });
-
 // ************ USING MOCK FUNCTION INSTEAD ************
 const TEST_VALUE = 3;
 
@@ -23,7 +22,7 @@ const mockFetchSuccess = jest.fn().mockResolvedValue({
 });
 
 // Assign this to the global fetch function
-// /* global global */
+/* global global */
 global.fetch = mockFetchSuccess;
 
 describe("getExampleData", () => {
