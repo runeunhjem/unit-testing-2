@@ -5,7 +5,7 @@
     "jest": true,
     "jest/globals": true,
     "node": true,
-    "es6": true
+    "es
   },
   "extends": "eslint:recommended",
   "overrides": [
