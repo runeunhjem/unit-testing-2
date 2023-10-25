@@ -1,0 +1,24 @@
+{
+  "name": "unit-testing-2",
+  "version": "0.0.1",
+  "description": "Retake on Unit Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runeunhjem/unit-testing-2.git"
+  },
+  "keywords": [
+    "Jest",
+    "Unit",
+    "Testing"
+  ],
+  "author": "Rune Unhjem <runeunhjem@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runeunhjem/unit-testing-2/issues"
+  },
+  "homepage": "https://github.com/runeunhjem/unit-testing-2#readme"
+}
