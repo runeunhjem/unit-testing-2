@@ -1,4 +1,4 @@
-import getExampleData from "./example.js";
+// import getExampleData from "./example.js";
 
 // describe("getExampleData", () => {
 //   it("returns the correct maximum of items", async () => {
@@ -6,7 +6,7 @@ import getExampleData from "./example.js";
 //     expect(data.length).toBeLessThanOrEqual(3);
 //   });
 // });
-// ************ USING MOCK FUNCTION INSTEAD ************
+// ************ USING MOCK INSTEAD 
 const TEST_VALUE = 3;
 
 // Create a mock function that will pretend to be the native fetch function
