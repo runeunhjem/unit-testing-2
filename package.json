@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/runeunhjem/unit-testing-2/issues"
   },
-  "homepage": "https://github.com/runeunhjem/unit-testing-2#readme"
+  "homepage": "https://github.com/runeunhjem/unit-testing-2#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
 }
