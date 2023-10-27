@@ -12,7 +12,7 @@
     "test-e2e-report": "cypress run --reporter mochawesome"
   },
   "jest": {
-    "exit": true
+    "exit"
   },
   "repository": {
     "type": "git",

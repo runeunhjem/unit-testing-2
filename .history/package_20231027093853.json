@@ -11,9 +11,7 @@
     "test-e2e-cli": "cypress run",
     "test-e2e-report": "cypress run --reporter mochawesome"
   },
-  "jest": {
-    "exit": true
-  },
+  "jest"
   "repository": {
     "type": "git",
     "url": "git+https://github.com/runeunhjem/unit-testing-2.git"
