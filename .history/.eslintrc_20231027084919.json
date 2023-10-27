@@ -19,9 +19,7 @@
       "extends": ["plugin:jest/recommended", "plugin:cypress/recommended"],
       "rules": {
         "jest/prefer-expect-assertions": "off",
-        "cypress/no-unnecessary-waiting": "off",
-        "no-unused-vars": "off"
-      }
+       }
     }
   ],
   "parserOptions": {
