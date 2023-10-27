@@ -1,7 +1,7 @@
 import getExampleData from "./example.js";
 
 // ************ USING MOCK FUNCTION INSTEAD ************
-const TEST_VALUE = 3;
+const TEST_VALUE = 5;
 
 // Create a mock function that will pretend to be the native fetch function
 const mockFetchSuccess = jest.fn().mockResolvedValue({
